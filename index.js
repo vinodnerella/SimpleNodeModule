@@ -16,3 +16,4 @@ function RectAngle(l,b){
 
 RectAngle(4,5);
 RectAngle(-4,5);
+RectAngle(10,5)
